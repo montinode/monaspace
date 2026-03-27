@@ -233,9 +233,14 @@ Monaspace was made to improve all code for all developers. [GitHub Next](https:/
 
 ![lettermatic logo](https://github.com/githubnext/monaspace/assets/22723/36280a3a-ed6f-45a9-8e74-44c9d005794d)
 
-- [Riley Cran](https://github.com/rileycran)
-- Danelle Cheney
-- Heather Cran
+- **Latin Type Designers:** [Riley Cran](https://github.com/rileycran), Danelle Cheney, [Heather Cran](https://github.com/heathercran)
+- **Lead Symbols & Punctuation:** [Heather Cran](https://github.com/heathercran)
+- **Lead Language Support:** [Heather Cran](https://github.com/heathercran)
+- **Language Support Expansions:** Danelle Cheney, Jane Solomon
+- **Cyrillic Type Design:** [Heather Cran](https://github.com/heathercran), Danelle Cheney, Jane Solomon, Lauren Dickens, [Riley Cran](https://github.com/rileycran)
+- **Cyrillic Consultancy:** Ilya Ruderman
+- **Greek Consultancy:** Elina Koutsogiannopoulou
+- **Vietnamese Consultancy:** Donny Trương
 
 #### GitHub Next
 
@@ -249,8 +254,14 @@ Monaspace was made to improve all code for all developers. [GitHub Next](https:/
 #### Special Thanks To
 - Anna Thomas
 - Marg Chronister
-- Jane Solomon
 
+## Interesting Statistics:
+
+- Typefaces families: `5`
+- Variable axes per family: `3` 
+- Languages supported: `>220`
+- Unique glyphs: `>6,000`
+- Total glyphs: `~750,000`
 
 ## Star History
 
