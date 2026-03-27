@@ -54,6 +54,9 @@ There is such a broad variety of environments and terminals and often solving fo
 > - [v1.1](https://github.com/githubnext/monaspace/releases/tag/v1.100)
 > - [v1.101](https://github.com/githubnext/monaspace/releases/tag/v1.101)
 > - [v1.2](https://github.com/githubnext/monaspace/releases/tag/v1.200)
+> - [v1.3](https://github.com/githubnext/monaspace/releases/tag/v1.300)
+> - [v1.4](https://github.com/githubnext/monaspace/releases/tag/v1.400)
+
 
 
 The `liga` font feature enables customized spacing of repeating characters, like `///` or `||`. It is designed to avoid activating inside longer sequences like `////`.
@@ -65,7 +68,7 @@ There are ten groups of coding ligatures, separated into stylistic sets. You may
 * `ss03`: ligatures related to arrows like `->` and `~>`.
 * `ss04`: ligatures related to markup, like `</` and `/>`.
 * `ss05`: ligatures related to the F# programming language, like `|>`.
-* `ss06`: ligatures related to repeated uses of `#`, `+`, and `&`.
+* `ss06`: ligatures related to repeated uses of `#`, `+`, `_`, `=` and `&`.
 * `ss07`: ligatures related to colons like `::` or `=:=`.
 * `ss08`: ligatures related to combinations of periods with other glyphs like `..=` or `.-`.
 * `ss09`: ligatures related to combinations of the greater/less than and equals signs, like  `<=>`,`>>`, and `=<<`.
@@ -88,6 +91,8 @@ Specific characters have variants that you can optionally enable using the `cvNN
 #### cv10-cv29: letter variants
 - `cv10`: `l` `i` alternates (Neon, Argon, Xenon, Radon)
 - `cv11`: `j` `f` `r` `t` alternates (Neon, Argon)
+- `cv12`: Bulgarian-specific Cyrillic alternates
+- `cv13`: Serbianc-specific Cyrillic alternates
 
 #### cv30-cv59: symbol variants
 - `cv30`: `*` vertically aligned closer to the top of the space, similar to how the asterisk was in Monaspace 1.0
@@ -167,6 +172,8 @@ The webfonts do not come in a "frozen" format; you can easily control Opentype f
 > - [v1.1](https://github.com/githubnext/monaspace/releases/tag/v1.100)
 > - [v1.101](https://github.com/githubnext/monaspace/releases/tag/v1.101)
 > - [v1.2](https://github.com/githubnext/monaspace/releases/tag/v1.200)
+> - [v1.3](https://github.com/githubnext/monaspace/releases/tag/v1.300)
+> - [v1.4](https://github.com/githubnext/monaspace/releases/tag/v1.400)
 
 Set the font family:
 
