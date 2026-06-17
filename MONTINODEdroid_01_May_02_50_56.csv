@@ -1,0 +1,346 @@
+IPProto,SrcIP,SrcPort,DstIp,DstPort,UID,App,PackageName,Proto,Status,Info,BytesSent,BytesRcvd,PktsSent,PktsRcvd,FirstSeen,LastSeen
+17,10.215.173.1,58418,10.215.173.2,53,10585,IPVanish,com.ixolit.ipvanish,DNS,Closed,firebaseinstallations.googleapis.com,82,194,1,1,2026-05-01T02:28:08.187-04:00,2026-05-01T02:28:08.390-04:00
+17,10.215.173.1,23242,10.215.173.2,53,10585,IPVanish,com.ixolit.ipvanish,DNS,Closed,firebaseinstallations.googleapis.com,82,290,1,1,2026-05-01T02:28:08.191-04:00,2026-05-01T02:28:08.405-04:00
+17,10.215.173.1,17450,10.215.173.2,53,10585,IPVanish,com.ixolit.ipvanish,DNS,Closed,firebase-settings.crashlytics.com,79,107,1,1,2026-05-01T02:28:08.193-04:00,2026-05-01T02:28:08.411-04:00
+17,10.215.173.1,38014,10.215.173.2,53,10585,IPVanish,com.ixolit.ipvanish,DNS,Closed,firebase-settings.crashlytics.com,79,95,1,1,2026-05-01T02:28:08.195-04:00,2026-05-01T02:28:08.412-04:00
+6,10.215.173.1,46684,172.253.115.94,443,10585,IPVanish,com.ixolit.ipvanish,HTTPS,Closed,firebase-settings.crashlytics.com,807,4375,6,6,2026-05-01T02:28:08.437-04:00,2026-05-01T02:28:08.677-04:00
+6,10.215.173.1,34480,142.251.16.95,443,10585,IPVanish,com.ixolit.ipvanish,HTTPS,Error,firebaseinstallations.googleapis.com,847,4765,7,6,2026-05-01T02:28:08.445-04:00,2026-05-01T02:28:08.635-04:00
+17,10.215.173.1,6565,10.215.173.2,53,10585,IPVanish,com.ixolit.ipvanish,DNS,Closed,dacdn.visualwebsiteoptimizer.com,78,106,1,1,2026-05-01T02:28:08.475-04:00,2026-05-01T02:28:08.556-04:00
+17,10.215.173.1,20249,10.215.173.2,53,10585,IPVanish,com.ixolit.ipvanish,DNS,Closed,dacdn.visualwebsiteoptimizer.com,78,94,1,1,2026-05-01T02:28:08.521-04:00,2026-05-01T02:28:08.570-04:00
+17,10.215.173.1,11059,10.215.173.2,53,10585,IPVanish,com.ixolit.ipvanish,DNS,Closed,sdk.iad-05.braze.com,66,174,1,1,2026-05-01T02:28:08.527-04:00,2026-05-01T02:28:08.569-04:00
+17,10.215.173.1,33972,10.215.173.2,53,10585,IPVanish,com.ixolit.ipvanish,DNS,Closed,sdk.iad-05.braze.com,66,151,1,1,2026-05-01T02:28:08.535-04:00,2026-05-01T02:28:08.570-04:00
+6,10.215.173.1,48872,172.64.149.149,443,10585,IPVanish,com.ixolit.ipvanish,HTTPS,Closed,sdk.iad-05.braze.com,807,3365,6,6,2026-05-01T02:28:08.576-04:00,2026-05-01T02:28:08.731-04:00
+6,10.215.173.1,40538,34.107.218.251,443,10585,IPVanish,com.ixolit.ipvanish,HTTPS,Error,dacdn.visualwebsiteoptimizer.com,807,3757,6,5,2026-05-01T02:28:08.593-04:00,2026-05-01T02:28:08.703-04:00
+6,10.215.173.1,48876,172.64.149.149,443,10585,IPVanish,com.ixolit.ipvanish,HTTPS,Closed,sdk.iad-05.braze.com,807,3365,6,6,2026-05-01T02:28:08.597-04:00,2026-05-01T02:28:08.741-04:00
+6,10.215.173.1,55960,142.251.167.95,443,10585,IPVanish,com.ixolit.ipvanish,HTTPS,Error,firebaseinstallations.googleapis.com,807,4724,6,5,2026-05-01T02:28:08.644-04:00,2026-05-01T02:28:08.745-04:00
+6,fd00:2:fd00:1:fd00:1:fd00:1,35486,2607:f8b0:4004:c06::5e,443,10585,IPVanish,com.ixolit.ipvanish,HTTPS,Closed,firebase-settings.crashlytics.com,987,4555,7,7,2026-05-01T02:28:08.764-04:00,2026-05-01T02:28:08.931-04:00
+6,10.215.173.1,38836,142.251.111.95,443,10585,IPVanish,com.ixolit.ipvanish,HTTPS,Closed,firebaseinstallations.googleapis.com,807,4764,6,6,2026-05-01T02:28:08.772-04:00,2026-05-01T02:28:08.933-04:00
+6,10.215.173.1,52498,172.253.115.95,443,10585,IPVanish,com.ixolit.ipvanish,HTTPS,Closed,firebaseinstallations.googleapis.com,847,4804,7,7,2026-05-01T02:28:08.896-04:00,2026-05-01T02:28:09.039-04:00
+6,10.215.173.1,46692,172.253.115.94,443,10585,IPVanish,com.ixolit.ipvanish,HTTPS,Closed,firebase-settings.crashlytics.com,807,4375,6,6,2026-05-01T02:28:08.997-04:00,2026-05-01T02:28:09.144-04:00
+6,10.215.173.1,58114,64.233.180.95,443,10585,IPVanish,com.ixolit.ipvanish,HTTPS,Closed,firebaseinstallations.googleapis.com,847,4804,7,7,2026-05-01T02:28:09.003-04:00,2026-05-01T02:28:09.139-04:00
+17,10.215.173.1,13702,10.215.173.2,53,10585,IPVanish,com.ixolit.ipvanish,DNS,Closed,app.adjust.com,60,125,1,1,2026-05-01T02:28:09.006-04:00,2026-05-01T02:28:09.048-04:00
+17,10.215.173.1,57590,10.215.173.2,53,10585,IPVanish,com.ixolit.ipvanish,DNS,Closed,app.adjust.com,60,124,1,1,2026-05-01T02:28:09.009-04:00,2026-05-01T02:28:09.049-04:00
+6,10.215.173.1,40050,185.151.204.12,443,10585,IPVanish,com.ixolit.ipvanish,HTTPS,Closed,app.adjust.com,807,3819,6,6,2026-05-01T02:28:09.055-04:00,2026-05-01T02:28:09.367-04:00
+6,10.215.173.1,47790,192.178.155.95,443,10585,IPVanish,com.ixolit.ipvanish,HTTPS,Closed,firebaseinstallations.googleapis.com,847,4803,7,7,2026-05-01T02:28:09.106-04:00,2026-05-01T02:28:09.258-04:00
+6,10.215.173.1,57186,142.251.163.95,443,10585,IPVanish,com.ixolit.ipvanish,HTTPS,Closed,firebaseinstallations.googleapis.com,847,4804,7,7,2026-05-01T02:28:09.213-04:00,2026-05-01T02:28:09.358-04:00
+17,10.215.173.1,34993,10.215.173.2,53,10585,IPVanish,com.ixolit.ipvanish,DNS,Closed,crashlyticsreports-pa.googleapis.com,82,194,1,1,2026-05-01T02:28:09.225-04:00,2026-05-01T02:28:09.273-04:00
+17,10.215.173.1,15897,10.215.173.2,53,10585,IPVanish,com.ixolit.ipvanish,DNS,Closed,crashlyticsreports-pa.googleapis.com,82,178,1,1,2026-05-01T02:28:09.228-04:00,2026-05-01T02:28:09.274-04:00
+6,10.215.173.1,35612,172.253.115.101,443,10585,IPVanish,com.ixolit.ipvanish,HTTPS,Closed,crashlyticsreports-pa.googleapis.com,847,4805,7,7,2026-05-01T02:28:09.279-04:00,2026-05-01T02:28:09.408-04:00
+6,10.215.173.1,52456,142.251.179.95,443,10585,IPVanish,com.ixolit.ipvanish,HTTPS,Closed,firebaseinstallations.googleapis.com,887,4844,8,8,2026-05-01T02:28:09.318-04:00,2026-05-01T02:28:09.460-04:00
+6,10.215.173.1,55976,192.178.218.95,443,10585,IPVanish,com.ixolit.ipvanish,HTTPS,Error,firebaseinstallations.googleapis.com,847,4765,7,6,2026-05-01T02:28:09.421-04:00,2026-05-01T02:28:09.513-04:00
+17,10.215.173.1,58099,10.215.173.2,53,10585,IPVanish,com.ixolit.ipvanish,DNS,Closed,app.adjust.io,59,124,1,1,2026-05-01T02:28:09.443-04:00,2026-05-01T02:28:09.488-04:00
+17,10.215.173.1,7366,10.215.173.2,53,10585,IPVanish,com.ixolit.ipvanish,DNS,Closed,app.adjust.io,59,75,1,1,2026-05-01T02:28:09.445-04:00,2026-05-01T02:28:09.488-04:00
+6,10.215.173.1,46832,185.151.204.1,443,10585,IPVanish,com.ixolit.ipvanish,HTTPS,Closed,app.adjust.io,807,3804,6,6,2026-05-01T02:28:09.491-04:00,2026-05-01T02:28:09.816-04:00
+6,10.215.173.1,42532,172.253.62.95,443,10585,IPVanish,com.ixolit.ipvanish,HTTPS,Closed,firebaseinstallations.googleapis.com,807,4763,6,6,2026-05-01T02:28:09.518-04:00,2026-05-01T02:28:09.677-04:00
+6,10.215.173.1,57434,142.250.31.95,443,10585,IPVanish,com.ixolit.ipvanish,HTTPS,Error,firebaseinstallations.googleapis.com,847,4765,7,6,2026-05-01T02:28:09.630-04:00,2026-05-01T02:28:09.733-04:00
+6,10.215.173.1,37616,172.253.63.95,443,10585,IPVanish,com.ixolit.ipvanish,HTTPS,Error,firebaseinstallations.googleapis.com,847,4764,7,6,2026-05-01T02:28:09.739-04:00,2026-05-01T02:28:09.849-04:00
+6,10.215.173.1,48392,172.253.122.95,443,10585,IPVanish,com.ixolit.ipvanish,TCP,Closed,firebaseinstallations.googleapis.com,100,88,2,2,2026-05-01T02:28:09.851-04:00,2026-05-01T02:28:20.075-04:00
+17,10.215.173.1,38663,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,go-updater.brave.com,66,204,1,1,2026-05-01T02:31:39.701-04:00,2026-05-01T02:31:39.913-04:00
+17,10.215.173.1,23401,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,go-updater.brave.com,66,204,1,1,2026-05-01T02:31:39.713-04:00,2026-05-01T02:31:39.922-04:00
+17,10.215.173.1,8291,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,go-updater.brave.com,66,254,1,1,2026-05-01T02:31:39.729-04:00,2026-05-01T02:31:39.921-04:00
+6,10.215.173.1,55366,35.164.73.218,443,10476,Brave,com.brave.browser,HTTPS,Closed,go-updater.brave.com,3777,4374,14,14,2026-05-01T02:31:39.936-04:00,2026-05-01T02:31:50.387-04:00
+17,10.215.173.1,38453,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,anonymous.ads.brave.com,69,174,1,1,2026-05-01T02:32:40.367-04:00,2026-05-01T02:32:40.573-04:00
+17,10.215.173.1,27905,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,anonymous.ads.brave.com,69,228,1,1,2026-05-01T02:32:40.374-04:00,2026-05-01T02:32:40.589-04:00
+17,10.215.173.1,34838,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,anonymous.ads.brave.com,69,180,1,1,2026-05-01T02:32:40.378-04:00,2026-05-01T02:32:40.589-04:00
+17,10.215.173.1,41721,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,anonymous.ads.brave.com,69,174,1,1,2026-05-01T02:32:40.455-04:00,2026-05-01T02:32:40.592-04:00
+17,10.215.173.1,13688,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,anonymous.ads.brave.com,69,228,1,1,2026-05-01T02:32:40.461-04:00,2026-05-01T02:32:40.593-04:00
+17,10.215.173.1,26855,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,anonymous.ads.brave.com,69,180,1,1,2026-05-01T02:32:40.482-04:00,2026-05-01T02:32:40.590-04:00
+6,fd00:2:fd00:1:fd00:1:fd00:1,53422,2a04:4e42::649,443,10476,Brave,com.brave.browser,HTTPS,Closed,anonymous.ads.brave.com,3605,8491,12,12,2026-05-01T02:32:40.611-04:00,2026-05-01T02:33:44.724-04:00
+17,10.215.173.1,28552,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,firebaseinstallations.googleapis.com,82,194,1,1,2026-05-01T02:40:04.776-04:00,2026-05-01T02:40:04.967-04:00
+17,10.215.173.1,63439,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,firebaseinstallations.googleapis.com,82,274,1,1,2026-05-01T02:40:04.781-04:00,2026-05-01T02:40:04.980-04:00
+6,10.215.173.1,49206,108.177.122.95,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,firebaseinstallations.googleapis.com,847,3502,7,7,2026-05-01T02:40:04.992-04:00,2026-05-01T02:40:05.226-04:00
+6,10.215.173.1,55808,74.125.136.95,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,firebaseinstallations.googleapis.com,847,3503,7,7,2026-05-01T02:40:05.178-04:00,2026-05-01T02:40:05.412-04:00
+6,10.215.173.1,60340,173.194.219.95,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,firebaseinstallations.googleapis.com,807,3464,6,6,2026-05-01T02:40:05.368-04:00,2026-05-01T02:40:05.587-04:00
+6,10.215.173.1,60044,74.125.138.95,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,firebaseinstallations.googleapis.com,847,3503,7,7,2026-05-01T02:40:05.534-04:00,2026-05-01T02:40:05.757-04:00
+6,10.215.173.1,52964,142.250.9.95,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,firebaseinstallations.googleapis.com,847,3504,7,7,2026-05-01T02:40:05.712-04:00,2026-05-01T02:40:05.931-04:00
+6,10.215.173.1,37482,142.251.15.95,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,firebaseinstallations.googleapis.com,807,3463,6,6,2026-05-01T02:40:05.882-04:00,2026-05-01T02:40:06.091-04:00
+17,10.215.173.1,60695,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,config.edge.skype.com,67,242,1,1,2026-05-01T02:40:06.034-04:00,2026-05-01T02:40:06.078-04:00
+17,10.215.173.1,18521,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,config.edge.skype.com,67,230,1,1,2026-05-01T02:40:06.037-04:00,2026-05-01T02:40:06.079-04:00
+6,10.215.173.1,42490,64.233.176.95,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,firebaseinstallations.googleapis.com,807,3463,6,6,2026-05-01T02:40:06.057-04:00,2026-05-01T02:40:06.285-04:00
+6,10.215.173.1,57256,150.171.22.17,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,config.edge.skype.com,784,8390,6,6,2026-05-01T02:40:06.088-04:00,2026-05-01T02:41:06.596-04:00
+6,10.215.173.1,58196,172.253.124.95,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,firebaseinstallations.googleapis.com,807,3462,6,6,2026-05-01T02:40:06.225-04:00,2026-05-01T02:40:06.437-04:00
+6,10.215.173.1,56976,74.125.21.95,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,firebaseinstallations.googleapis.com,847,3503,7,7,2026-05-01T02:40:06.386-04:00,2026-05-01T02:40:06.576-04:00
+6,10.215.173.1,58624,172.217.215.95,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,firebaseinstallations.googleapis.com,807,3463,6,6,2026-05-01T02:40:06.533-04:00,2026-05-01T02:40:06.745-04:00
+6,fd00:2:fd00:1:fd00:1:fd00:1,58844,2620:1ec:50::17,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,config.edge.skype.com,904,8510,6,6,2026-05-01T02:40:06.718-04:00,2026-05-01T02:41:11.615-04:00
+17,10.215.173.1,55904,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,dc.services.visualstudio.com,74,519,1,1,2026-05-01T02:40:07.010-04:00,2026-05-01T02:40:07.081-04:00
+17,10.215.173.1,9931,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,dc.services.visualstudio.com,74,492,1,1,2026-05-01T02:40:07.016-04:00,2026-05-01T02:40:07.059-04:00
+17,10.215.173.1,57904,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,242,1,1,2026-05-01T02:40:07.068-04:00,2026-05-01T02:40:07.118-04:00
+17,10.215.173.1,46006,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:40:07.071-04:00,2026-05-01T02:40:07.118-04:00
+6,10.215.173.1,53902,52.188.247.149,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,dc.services.visualstudio.com,1241,8899,8,9,2026-05-01T02:40:07.088-04:00,2026-05-01T02:40:07.339-04:00
+6,10.215.173.1,32978,20.189.173.17,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1205,6691,7,8,2026-05-01T02:40:07.130-04:00,2026-05-01T02:40:07.624-04:00
+6,10.215.173.1,53914,52.188.247.149,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,dc.services.visualstudio.com,1321,9059,10,13,2026-05-01T02:40:10.081-04:00,2026-05-01T02:40:10.347-04:00
+6,10.215.173.1,57260,150.171.22.17,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,config.edge.skype.com,784,8390,6,6,2026-05-01T02:40:11.576-04:00,2026-05-01T02:41:11.615-04:00
+6,10.215.173.1,53916,52.188.247.149,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,dc.services.visualstudio.com,1241,8939,8,10,2026-05-01T02:40:12.442-04:00,2026-05-01T02:40:12.658-04:00
+17,10.215.173.1,28589,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,201,1,1,2026-05-01T02:40:13.225-04:00,2026-05-01T02:40:13.277-04:00
+6,10.215.173.1,35214,13.89.179.8,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,8982,8,9,2026-05-01T02:40:13.286-04:00,2026-05-01T02:40:13.649-04:00
+17,10.215.173.1,6764,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,dc.services.visualstudio.com,74,492,1,1,2026-05-01T02:40:15.202-04:00,2026-05-01T02:40:15.249-04:00
+6,10.215.173.1,59578,52.179.73.59,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,dc.services.visualstudio.com,1241,8900,8,9,2026-05-01T02:40:15.259-04:00,2026-05-01T02:40:15.497-04:00
+17,10.215.173.1,13003,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:40:21.635-04:00,2026-05-01T02:40:21.698-04:00
+6,10.215.173.1,39058,20.189.173.18,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1205,6691,7,8,2026-05-01T02:40:21.705-04:00,2026-05-01T02:40:22.211-04:00
+17,10.215.173.1,6139,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,dc.services.visualstudio.com,74,492,1,1,2026-05-01T02:40:24.440-04:00,2026-05-01T02:40:24.497-04:00
+6,10.215.173.1,33754,52.188.247.149,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,dc.services.visualstudio.com,1201,8859,7,8,2026-05-01T02:40:24.503-04:00,2026-05-01T02:40:24.747-04:00
+6,10.215.173.1,33756,52.188.247.149,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,dc.services.visualstudio.com,1201,8859,7,8,2026-05-01T02:40:24.781-04:00,2026-05-01T02:40:25.029-04:00
+6,10.215.173.1,44676,150.171.22.17,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,config.edge.skype.com,784,8390,6,6,2026-05-01T02:40:38.921-04:00,2026-05-01T02:41:41.906-04:00
+17,10.215.173.1,40288,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:40:40.075-04:00,2026-05-01T02:40:40.159-04:00
+6,10.215.173.1,55896,52.168.117.169,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1205,8942,7,8,2026-05-01T02:40:40.166-04:00,2026-05-01T02:40:40.428-04:00
+17,10.215.173.1,59386,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,dc.services.visualstudio.com,74,519,1,1,2026-05-01T02:40:48.073-04:00,2026-05-01T02:40:48.139-04:00
+17,10.215.173.1,23133,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,dc.services.visualstudio.com,74,492,1,1,2026-05-01T02:40:48.081-04:00,2026-05-01T02:40:48.148-04:00
+6,10.215.173.1,52488,52.188.247.149,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,dc.services.visualstudio.com,1241,8939,8,10,2026-05-01T02:40:48.158-04:00,2026-05-01T02:40:48.398-04:00
+6,10.215.173.1,52490,52.188.247.149,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,dc.services.visualstudio.com,1241,8939,8,10,2026-05-01T02:40:48.297-04:00,2026-05-01T02:40:48.538-04:00
+17,10.215.173.1,60781,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,242,1,1,2026-05-01T02:41:29.150-04:00,2026-05-01T02:41:29.204-04:00
+17,10.215.173.1,55589,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,203,1,1,2026-05-01T02:41:29.153-04:00,2026-05-01T02:41:29.213-04:00
+6,10.215.173.1,59288,20.50.73.13,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1205,6692,7,8,2026-05-01T02:41:29.218-04:00,2026-05-01T02:41:29.715-04:00
+17,10.215.173.1,42055,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,dc.services.visualstudio.com,74,519,1,1,2026-05-01T02:41:29.866-04:00,2026-05-01T02:41:29.915-04:00
+17,10.215.173.1,10630,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,dc.services.visualstudio.com,74,494,1,1,2026-05-01T02:41:29.872-04:00,2026-05-01T02:41:29.923-04:00
+6,10.215.173.1,41612,52.179.73.39,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,dc.services.visualstudio.com,1201,8858,7,8,2026-05-01T02:41:29.931-04:00,2026-05-01T02:41:30.183-04:00
+6,10.215.173.1,41622,52.179.73.39,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,dc.services.visualstudio.com,1241,8938,8,10,2026-05-01T02:41:30.546-04:00,2026-05-01T02:41:30.784-04:00
+6,10.215.173.1,43442,20.50.73.13,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,6732,8,9,2026-05-01T02:41:37.130-04:00,2026-05-01T02:41:37.634-04:00
+17,10.215.173.1,30313,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,201,1,1,2026-05-01T02:41:42.584-04:00,2026-05-01T02:41:42.645-04:00
+6,10.215.173.1,52044,13.89.179.8,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1205,8942,7,8,2026-05-01T02:41:42.650-04:00,2026-05-01T02:41:42.966-04:00
+6,10.215.173.1,45468,13.89.179.8,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1205,8942,7,8,2026-05-01T02:41:48.632-04:00,2026-05-01T02:41:48.945-04:00
+17,10.215.173.1,59116,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,201,1,1,2026-05-01T02:41:56.702-04:00,2026-05-01T02:41:56.747-04:00
+6,10.215.173.1,38010,13.89.179.13,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1205,8942,7,8,2026-05-01T02:41:56.757-04:00,2026-05-01T02:41:57.137-04:00
+17,10.215.173.1,41182,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,201,1,1,2026-05-01T02:42:03.678-04:00,2026-05-01T02:42:03.744-04:00
+6,10.215.173.1,57806,104.208.16.91,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1205,8942,7,8,2026-05-01T02:42:03.763-04:00,2026-05-01T02:42:04.149-04:00
+17,10.215.173.1,5806,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:42:09.560-04:00,2026-05-01T02:42:09.615-04:00
+6,10.215.173.1,48332,52.168.117.175,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1285,9062,9,11,2026-05-01T02:42:09.621-04:00,2026-05-01T02:42:09.848-04:00
+17,10.215.173.1,3955,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,248,1,1,2026-05-01T02:42:15.427-04:00,2026-05-01T02:42:15.489-04:00
+17,10.215.173.1,37852,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,199,1,1,2026-05-01T02:42:15.433-04:00,2026-05-01T02:42:15.490-04:00
+6,10.215.173.1,47502,51.105.71.137,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,9022,8,10,2026-05-01T02:42:15.497-04:00,2026-05-01T02:42:16.027-04:00
+6,10.215.173.1,58908,51.105.71.137,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,9022,8,10,2026-05-01T02:42:21.669-04:00,2026-05-01T02:42:22.198-04:00
+17,10.215.173.1,13925,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:42:28.608-04:00,2026-05-01T02:42:28.665-04:00
+6,10.215.173.1,33248,20.42.65.85,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1205,8942,7,8,2026-05-01T02:42:28.670-04:00,2026-05-01T02:42:28.895-04:00
+17,10.215.173.1,24120,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,dc.services.visualstudio.com,74,520,1,1,2026-05-01T02:42:30.185-04:00,2026-05-01T02:42:30.246-04:00
+17,10.215.173.1,40375,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,dc.services.visualstudio.com,74,492,1,1,2026-05-01T02:42:30.190-04:00,2026-05-01T02:42:30.255-04:00
+6,10.215.173.1,52128,52.188.247.150,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,dc.services.visualstudio.com,1281,8979,9,11,2026-05-01T02:42:30.261-04:00,2026-05-01T02:42:30.475-04:00
+6,10.215.173.1,39052,20.42.65.85,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,9022,8,10,2026-05-01T02:42:36.297-04:00,2026-05-01T02:42:36.567-04:00
+17,10.215.173.1,37810,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:42:43.978-04:00,2026-05-01T02:42:44.035-04:00
+6,10.215.173.1,60388,52.168.117.168,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,9022,8,10,2026-05-01T02:42:44.043-04:00,2026-05-01T02:42:44.265-04:00
+17,10.215.173.1,11458,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:42:49.416-04:00,2026-05-01T02:42:49.474-04:00
+6,10.215.173.1,57562,20.42.65.91,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,8982,8,9,2026-05-01T02:42:49.478-04:00,2026-05-01T02:42:49.710-04:00
+6,10.215.173.1,57578,20.42.65.91,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1205,8942,7,8,2026-05-01T02:42:55.174-04:00,2026-05-01T02:42:55.395-04:00
+17,10.215.173.1,51910,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,dc.services.visualstudio.com,74,519,1,1,2026-05-01T02:42:58.744-04:00,2026-05-01T02:42:58.805-04:00
+17,10.215.173.1,57011,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,dc.services.visualstudio.com,74,492,1,1,2026-05-01T02:42:58.748-04:00,2026-05-01T02:42:58.807-04:00
+6,10.215.173.1,34398,52.179.73.59,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,dc.services.visualstudio.com,1201,8860,7,8,2026-05-01T02:42:58.813-04:00,2026-05-01T02:42:59.045-04:00
+17,10.215.173.1,37791,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,249,1,1,2026-05-01T02:43:02.881-04:00,2026-05-01T02:43:02.935-04:00
+17,10.215.173.1,37194,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:43:02.884-04:00,2026-05-01T02:43:02.937-04:00
+6,10.215.173.1,52914,20.189.173.1,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,6731,8,9,2026-05-01T02:43:02.942-04:00,2026-05-01T02:43:03.383-04:00
+6,10.215.173.1,41920,20.189.173.1,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,6731,8,9,2026-05-01T02:43:09.941-04:00,2026-05-01T02:43:10.451-04:00
+17,10.215.173.1,64630,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,202,1,1,2026-05-01T02:43:17.015-04:00,2026-05-01T02:43:17.073-04:00
+6,10.215.173.1,60922,20.50.201.205,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1285,9061,9,11,2026-05-01T02:43:17.078-04:00,2026-05-01T02:43:17.620-04:00
+17,10.215.173.1,23799,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,205,1,1,2026-05-01T02:43:24.094-04:00,2026-05-01T02:43:24.144-04:00
+6,10.215.173.1,34234,40.79.141.155,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,6733,8,9,2026-05-01T02:43:24.154-04:00,2026-05-01T02:43:24.709-04:00
+17,10.215.173.1,17518,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:43:30.138-04:00,2026-05-01T02:43:30.194-04:00
+6,10.215.173.1,39552,20.189.173.5,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,6771,8,10,2026-05-01T02:43:30.200-04:00,2026-05-01T02:43:30.805-04:00
+17,10.215.173.1,45481,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,202,1,1,2026-05-01T02:43:37.185-04:00,2026-05-01T02:43:37.235-04:00
+6,10.215.173.1,38444,52.178.17.232,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,8981,8,9,2026-05-01T02:43:37.241-04:00,2026-05-01T02:43:37.799-04:00
+17,10.215.173.1,49142,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,205,1,1,2026-05-01T02:43:45.300-04:00,2026-05-01T02:43:45.354-04:00
+6,10.215.173.1,34146,40.79.167.8,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1205,8941,7,8,2026-05-01T02:43:45.361-04:00,2026-05-01T02:43:46.796-04:00
+17,10.215.173.1,1887,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,246,1,1,2026-05-01T02:43:53.711-04:00,2026-05-01T02:43:53.775-04:00
+6,10.215.173.1,49280,40.79.167.8,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1285,9061,9,11,2026-05-01T02:43:53.784-04:00,2026-05-01T02:43:55.116-04:00
+17,10.215.173.1,3771,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,243,1,1,2026-05-01T02:43:59.908-04:00,2026-05-01T02:43:59.955-04:00
+17,10.215.173.1,12728,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:43:59.912-04:00,2026-05-01T02:43:59.965-04:00
+6,10.215.173.1,50440,20.42.73.25,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1205,8942,7,8,2026-05-01T02:43:59.971-04:00,2026-05-01T02:44:00.217-04:00
+17,10.215.173.1,30327,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,201,1,1,2026-05-01T02:44:07.630-04:00,2026-05-01T02:44:07.694-04:00
+6,10.215.173.1,51844,52.182.143.215,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1285,9062,9,11,2026-05-01T02:44:07.702-04:00,2026-05-01T02:44:08.039-04:00
+17,10.215.173.1,10584,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,201,1,1,2026-05-01T02:44:15.021-04:00,2026-05-01T02:44:15.075-04:00
+6,10.215.173.1,54276,13.89.178.27,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,9022,8,10,2026-05-01T02:44:15.084-04:00,2026-05-01T02:44:15.429-04:00
+17,10.215.173.1,49059,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,config.edge.skype.com,67,242,1,1,2026-05-01T02:44:17.675-04:00,2026-05-01T02:44:17.734-04:00
+17,10.215.173.1,9235,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,config.edge.skype.com,67,312,1,1,2026-05-01T02:44:17.679-04:00,2026-05-01T02:44:17.735-04:00
+6,10.215.173.1,60960,52.123.251.70,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,config.edge.skype.com,1274,8749,9,11,2026-05-01T02:44:17.743-04:00,2026-05-01T02:44:17.965-04:00
+17,10.215.173.1,11983,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:44:23.272-04:00,2026-05-01T02:44:23.324-04:00
+6,10.215.173.1,50506,20.189.173.27,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,6731,8,9,2026-05-01T02:44:23.329-04:00,2026-05-01T02:44:23.825-04:00
+6,10.215.173.1,35656,20.189.173.27,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1205,6691,7,8,2026-05-01T02:44:30.365-04:00,2026-05-01T02:44:30.870-04:00
+17,10.215.173.1,26709,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,242,1,1,2026-05-01T02:44:37.068-04:00,2026-05-01T02:44:37.124-04:00
+17,10.215.173.1,40761,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:44:37.076-04:00,2026-05-01T02:44:37.143-04:00
+6,10.215.173.1,43944,20.42.73.25,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1325,9142,10,13,2026-05-01T02:44:37.151-04:00,2026-05-01T02:44:37.408-04:00
+17,10.215.173.1,17921,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,dc.services.visualstudio.com,74,519,1,1,2026-05-01T02:44:41.106-04:00,2026-05-01T02:44:41.167-04:00
+17,10.215.173.1,54908,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,dc.services.visualstudio.com,74,492,1,1,2026-05-01T02:44:41.113-04:00,2026-05-01T02:44:41.164-04:00
+6,10.215.173.1,41424,52.179.73.57,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,dc.services.visualstudio.com,1241,8900,8,9,2026-05-01T02:44:41.173-04:00,2026-05-01T02:44:41.406-04:00
+6,10.215.173.1,43960,20.42.73.25,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1205,8942,7,8,2026-05-01T02:44:44.789-04:00,2026-05-01T02:44:45.068-04:00
+17,10.215.173.1,4200,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,201,1,1,2026-05-01T02:44:50.822-04:00,2026-05-01T02:44:50.886-04:00
+6,10.215.173.1,45450,13.89.179.13,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1325,9142,10,13,2026-05-01T02:44:50.893-04:00,2026-05-01T02:44:51.244-04:00
+17,10.215.173.1,58134,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,247,1,1,2026-05-01T02:44:58.633-04:00,2026-05-01T02:44:58.692-04:00
+17,10.215.173.1,5288,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,201,1,1,2026-05-01T02:44:58.637-04:00,2026-05-01T02:44:58.702-04:00
+6,10.215.173.1,60548,104.208.16.89,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,8982,8,9,2026-05-01T02:44:58.708-04:00,2026-05-01T02:44:59.092-04:00
+6,10.215.173.1,60562,104.208.16.89,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,9022,8,10,2026-05-01T02:45:04.142-04:00,2026-05-01T02:45:04.508-04:00
+17,10.215.173.1,24886,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,199,1,1,2026-05-01T02:45:10.038-04:00,2026-05-01T02:45:10.095-04:00
+6,10.215.173.1,48242,51.104.15.253,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1285,9062,9,11,2026-05-01T02:45:10.103-04:00,2026-05-01T02:45:10.628-04:00
+6,10.215.173.1,55998,51.104.15.253,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,9022,8,10,2026-05-01T02:45:16.575-04:00,2026-05-01T02:45:17.251-04:00
+17,10.215.173.1,14061,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,201,1,1,2026-05-01T02:45:22.711-04:00,2026-05-01T02:45:22.773-04:00
+6,10.215.173.1,59476,104.208.16.91,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,8982,8,9,2026-05-01T02:45:22.777-04:00,2026-05-01T02:45:23.134-04:00
+6,10.215.173.1,40028,104.208.16.91,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,8982,8,9,2026-05-01T02:45:29.252-04:00,2026-05-01T02:45:29.614-04:00
+17,10.215.173.1,34239,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,dc.services.visualstudio.com,74,520,1,1,2026-05-01T02:45:35.408-04:00,2026-05-01T02:45:35.473-04:00
+17,10.215.173.1,21908,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,dc.services.visualstudio.com,74,492,1,1,2026-05-01T02:45:35.412-04:00,2026-05-01T02:45:35.482-04:00
+6,10.215.173.1,40010,52.188.247.150,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,dc.services.visualstudio.com,1201,8859,7,8,2026-05-01T02:45:35.488-04:00,2026-05-01T02:45:35.737-04:00
+17,10.215.173.1,24278,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,246,1,1,2026-05-01T02:45:36.361-04:00,2026-05-01T02:45:36.415-04:00
+17,10.215.173.1,17005,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,201,1,1,2026-05-01T02:45:36.365-04:00,2026-05-01T02:45:36.414-04:00
+6,10.215.173.1,47290,104.208.16.89,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,8982,8,9,2026-05-01T02:45:36.421-04:00,2026-05-01T02:45:36.822-04:00
+6,10.215.173.1,47298,104.208.16.89,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,8982,8,9,2026-05-01T02:45:42.376-04:00,2026-05-01T02:45:42.787-04:00
+17,10.215.173.1,10198,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:45:50.606-04:00,2026-05-01T02:45:50.667-04:00
+6,10.215.173.1,39904,20.189.173.28,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1205,6691,7,8,2026-05-01T02:45:50.674-04:00,2026-05-01T02:45:51.169-04:00
+6,10.215.173.1,43780,20.189.173.28,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,6771,8,10,2026-05-01T02:45:57.604-04:00,2026-05-01T02:45:58.113-04:00
+17,10.215.173.1,44569,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,242,1,1,2026-05-01T02:46:03.805-04:00,2026-05-01T02:46:03.865-04:00
+17,10.215.173.1,64931,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,201,1,1,2026-05-01T02:46:03.812-04:00,2026-05-01T02:46:03.881-04:00
+6,10.215.173.1,49808,104.208.16.90,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1205,8942,7,8,2026-05-01T02:46:03.890-04:00,2026-05-01T02:46:04.226-04:00
+6,10.215.173.1,42260,104.208.16.90,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1325,9142,10,13,2026-05-01T02:46:09.565-04:00,2026-05-01T02:46:09.936-04:00
+17,10.215.173.1,6650,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,267,1,1,2026-05-01T02:46:15.932-04:00,2026-05-01T02:46:15.998-04:00
+17,10.215.173.1,23028,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,201,1,1,2026-05-01T02:46:15.938-04:00,2026-05-01T02:46:16.006-04:00
+6,10.215.173.1,57986,104.208.16.91,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1325,9142,10,13,2026-05-01T02:46:16.013-04:00,2026-05-01T02:46:16.483-04:00
+17,10.215.173.1,28615,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,246,1,1,2026-05-01T02:46:24.102-04:00,2026-05-01T02:46:24.174-04:00
+6,10.215.173.1,57996,104.208.16.91,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1285,9062,9,11,2026-05-01T02:46:24.181-04:00,2026-05-01T02:46:24.560-04:00
+17,10.215.173.1,61671,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,203,1,1,2026-05-01T02:46:31.552-04:00,2026-05-01T02:46:31.623-04:00
+6,10.215.173.1,37638,20.50.73.4,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1285,6812,9,11,2026-05-01T02:46:31.631-04:00,2026-05-01T02:46:32.123-04:00
+17,10.215.173.1,53796,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,s.orbsrv.com,58,151,1,1,2026-05-01T02:46:36.643-04:00,2026-05-01T02:46:36.706-04:00
+17,10.215.173.1,44730,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,s.orbsrv.com,58,151,1,1,2026-05-01T02:46:36.647-04:00,2026-05-01T02:46:36.709-04:00
+17,10.215.173.1,32299,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,s.orbsrv.com,58,105,1,1,2026-05-01T02:46:36.650-04:00,2026-05-01T02:46:36.713-04:00
+6,10.215.173.1,52074,185.59.223.192,443,10476,Brave,com.brave.browser,HTTPS,Closed,s.orbsrv.com,4953,4687,17,15,2026-05-01T02:46:36.728-04:00,2026-05-01T02:46:46.950-04:00
+17,10.215.173.1,33135,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,go-updater.brave.com,66,204,1,1,2026-05-01T02:46:39.581-04:00,2026-05-01T02:46:39.636-04:00
+17,10.215.173.1,15622,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,go-updater.brave.com,66,204,1,1,2026-05-01T02:46:39.588-04:00,2026-05-01T02:46:39.637-04:00
+17,10.215.173.1,62349,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,go-updater.brave.com,66,254,1,1,2026-05-01T02:46:39.594-04:00,2026-05-01T02:46:39.646-04:00
+6,10.215.173.1,59318,54.188.252.143,443,10476,Brave,com.brave.browser,HTTPS,Closed,go-updater.brave.com,3769,4311,13,13,2026-05-01T02:46:39.656-04:00,2026-05-01T02:46:50.159-04:00
+17,10.215.173.1,61900,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:46:39.735-04:00,2026-05-01T02:46:39.784-04:00
+6,10.215.173.1,40480,52.168.117.168,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1285,9102,9,12,2026-05-01T02:46:39.793-04:00,2026-05-01T02:46:40.048-04:00
+17,10.215.173.1,26007,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,thumb-cdn77.xnxx-cdn.com,70,160,1,1,2026-05-01T02:46:41.907-04:00,2026-05-01T02:46:41.965-04:00
+17,10.215.173.1,24981,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,thumb-cdn77.xnxx-cdn.com,70,160,1,1,2026-05-01T02:46:41.909-04:00,2026-05-01T02:46:41.965-04:00
+17,10.215.173.1,33298,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,thumb-cdn77.xnxx-cdn.com,70,124,1,1,2026-05-01T02:46:41.911-04:00,2026-05-01T02:46:41.974-04:00
+6,10.215.173.1,41458,109.61.91.250,443,10476,Brave,com.brave.browser,HTTPS,Closed,thumb-cdn77.xnxx-cdn.com,4060,144983,41,73,2026-05-01T02:46:41.978-04:00,2026-05-01T02:47:44.286-04:00
+17,10.215.173.1,32211,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,201,1,1,2026-05-01T02:46:46.275-04:00,2026-05-01T02:46:46.334-04:00
+6,10.215.173.1,44400,13.89.179.13,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Error,mobile.events.data.microsoft.com,1285,9062,9,11,2026-05-01T02:46:46.340-04:00,2026-05-01T02:46:46.582-04:00
+6,10.215.173.1,58398,109.61.91.250,443,10476,Brave,com.brave.browser,HTTPS,Closed,thumb-cdn77.xnxx-cdn.com,6696,333734,97,145,2026-05-01T02:46:53.013-04:00,2026-05-01T02:47:54.472-04:00
+17,10.215.173.1,61889,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,245,1,1,2026-05-01T02:46:54.173-04:00,2026-05-01T02:46:54.244-04:00
+17,10.215.173.1,20930,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,205,1,1,2026-05-01T02:46:54.176-04:00,2026-05-01T02:46:54.244-04:00
+6,10.215.173.1,37164,40.79.141.153,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,6733,8,9,2026-05-01T02:46:54.249-04:00,2026-05-01T02:46:54.837-04:00
+6,10.215.173.1,36702,40.79.141.153,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1205,6693,7,8,2026-05-01T02:47:00.997-04:00,2026-05-01T02:47:01.559-04:00
+17,10.215.173.1,50049,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:47:07.331-04:00,2026-05-01T02:47:07.395-04:00
+6,10.215.173.1,38076,52.168.117.174,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,9022,8,10,2026-05-01T02:47:07.404-04:00,2026-05-01T02:47:07.706-04:00
+17,10.215.173.1,14101,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,anonymous.ads.brave.com,69,174,1,1,2026-05-01T02:47:10.123-04:00,2026-05-01T02:47:10.187-04:00
+17,10.215.173.1,37770,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,anonymous.ads.brave.com,69,228,1,1,2026-05-01T02:47:10.130-04:00,2026-05-01T02:47:10.189-04:00
+17,10.215.173.1,26309,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,anonymous.ads.brave.com,69,180,1,1,2026-05-01T02:47:10.136-04:00,2026-05-01T02:47:10.196-04:00
+6,fd00:2:fd00:1:fd00:1:fd00:1,33592,2a04:4e42::649,443,10476,Brave,com.brave.browser,HTTPS,Closed,anonymous.ads.brave.com,3573,8371,12,10,2026-05-01T02:47:10.221-04:00,2026-05-01T02:48:14.840-04:00
+17,10.215.173.1,25137,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:47:14.460-04:00,2026-05-01T02:47:14.510-04:00
+6,10.215.173.1,53596,20.42.65.90,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,9022,8,10,2026-05-01T02:47:14.518-04:00,2026-05-01T02:47:14.776-04:00
+6,10.215.173.1,35772,20.42.65.90,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,8982,8,9,2026-05-01T02:47:21.083-04:00,2026-05-01T02:47:21.358-04:00
+17,10.215.173.1,53743,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,201,1,1,2026-05-01T02:47:26.659-04:00,2026-05-01T02:47:27.285-04:00
+6,10.215.173.1,52862,104.208.16.90,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,8982,8,9,2026-05-01T02:47:27.293-04:00,2026-05-01T02:47:27.669-04:00
+6,10.215.173.1,52868,104.208.16.90,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,8982,8,9,2026-05-01T02:47:33.415-04:00,2026-05-01T02:47:33.768-04:00
+17,10.215.173.1,59849,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:47:39.958-04:00,2026-05-01T02:47:40.016-04:00
+6,10.215.173.1,34994,20.189.173.17,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1205,6691,7,8,2026-05-01T02:47:40.023-04:00,2026-05-01T02:47:40.509-04:00
+17,10.215.173.1,54081,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,245,1,1,2026-05-01T02:47:47.377-04:00,2026-05-01T02:47:47.443-04:00
+17,10.215.173.1,61017,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:47:47.384-04:00,2026-05-01T02:47:47.444-04:00
+6,10.215.173.1,49706,20.42.65.93,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,9022,8,10,2026-05-01T02:47:47.451-04:00,2026-05-01T02:47:47.693-04:00
+6,10.215.173.1,49708,20.42.65.93,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,9022,8,10,2026-05-01T02:47:54.759-04:00,2026-05-01T02:47:55.011-04:00
+17,10.215.173.1,14475,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:48:00.643-04:00,2026-05-01T02:48:00.705-04:00
+6,10.215.173.1,55244,20.189.173.23,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1205,6691,7,8,2026-05-01T02:48:00.712-04:00,2026-05-01T02:48:01.253-04:00
+6,10.215.173.1,57118,20.189.173.23,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1205,6691,7,8,2026-05-01T02:48:07.507-04:00,2026-05-01T02:48:08.015-04:00
+17,10.215.173.1,45245,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:48:15.784-04:00,2026-05-01T02:48:15.845-04:00
+6,10.215.173.1,39410,52.168.117.175,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,9022,8,10,2026-05-01T02:48:15.853-04:00,2026-05-01T02:48:16.096-04:00
+6,10.215.173.1,39416,52.168.117.175,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1205,8942,7,8,2026-05-01T02:48:21.174-04:00,2026-05-01T02:48:21.457-04:00
+17,10.215.173.1,36249,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:48:27.896-04:00,2026-05-01T02:48:27.948-04:00
+6,10.215.173.1,33924,20.189.173.1,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1205,6691,7,8,2026-05-01T02:48:27.956-04:00,2026-05-01T02:48:28.510-04:00
+6,10.215.173.1,33940,20.189.173.1,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1205,6691,7,8,2026-05-01T02:48:33.848-04:00,2026-05-01T02:48:34.376-04:00
+17,10.215.173.1,9686,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:48:40.447-04:00,2026-05-01T02:48:40.506-04:00
+6,10.215.173.1,49232,20.42.73.28,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,8982,8,9,2026-05-01T02:48:40.514-04:00,2026-05-01T02:48:40.930-04:00
+17,10.215.173.1,18146,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,246,1,1,2026-05-01T02:48:47.866-04:00,2026-05-01T02:48:47.934-04:00
+6,10.215.173.1,57464,20.42.73.28,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,8982,8,9,2026-05-01T02:48:47.942-04:00,2026-05-01T02:48:48.207-04:00
+17,10.215.173.1,52276,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:48:54.816-04:00,2026-05-01T02:48:54.865-04:00
+6,10.215.173.1,59276,20.189.173.23,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1285,6811,9,11,2026-05-01T02:48:54.871-04:00,2026-05-01T02:48:55.381-04:00
+17,10.215.173.1,22745,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,dc.services.visualstudio.com,74,519,1,1,2026-05-01T02:49:02.367-04:00,2026-05-01T02:49:02.428-04:00
+17,10.215.173.1,20862,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,dc.services.visualstudio.com,74,492,1,1,2026-05-01T02:49:02.373-04:00,2026-05-01T02:49:02.429-04:00
+6,10.215.173.1,44790,52.179.73.37,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,dc.services.visualstudio.com,1321,9059,10,13,2026-05-01T02:49:02.435-04:00,2026-05-01T02:49:02.653-04:00
+17,10.215.173.1,32538,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,201,1,1,2026-05-01T02:49:03.265-04:00,2026-05-01T02:49:03.314-04:00
+6,10.215.173.1,57472,52.182.143.213,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1285,9102,9,12,2026-05-01T02:49:03.322-04:00,2026-05-01T02:49:03.683-04:00
+17,10.215.173.1,47320,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,201,1,1,2026-05-01T02:49:10.889-04:00,2026-05-01T02:49:10.944-04:00
+6,10.215.173.1,45300,104.208.16.89,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1325,9182,10,14,2026-05-01T02:49:10.951-04:00,2026-05-01T02:49:11.322-04:00
+17,10.215.173.1,8248,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,246,1,1,2026-05-01T02:49:19.116-04:00,2026-05-01T02:49:19.174-04:00
+17,10.215.173.1,11424,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,203,1,1,2026-05-01T02:49:19.121-04:00,2026-05-01T02:49:19.175-04:00
+6,10.215.173.1,48826,20.50.73.12,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1285,6812,9,11,2026-05-01T02:49:19.182-04:00,2026-05-01T02:49:19.693-04:00
+17,10.215.173.1,10484,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,anonymous.ads.brave.com,69,174,1,1,2026-05-01T02:49:21.144-04:00,2026-05-01T02:49:21.209-04:00
+17,10.215.173.1,22230,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,anonymous.ads.brave.com,69,228,1,1,2026-05-01T02:49:21.148-04:00,2026-05-01T02:49:21.208-04:00
+17,10.215.173.1,46596,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,anonymous.ads.brave.com,69,180,1,1,2026-05-01T02:49:21.155-04:00,2026-05-01T02:49:21.219-04:00
+6,fd00:2:fd00:1:fd00:1:fd00:1,40508,2a04:4e42::649,443,10476,Brave,com.brave.browser,HTTPS,Closed,anonymous.ads.brave.com,5323,9195,24,21,2026-05-01T02:49:21.236-04:00,2026-05-01T02:49:42.020-04:00
+17,10.215.173.1,54783,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,www.xnxx.com,58,131,1,1,2026-05-01T02:49:25.926-04:00,2026-05-01T02:49:25.984-04:00
+17,10.215.173.1,48682,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,www.xnxx.com,58,131,1,1,2026-05-01T02:49:25.931-04:00,2026-05-01T02:49:25.985-04:00
+17,10.215.173.1,35067,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,www.xnxx.com,58,312,1,1,2026-05-01T02:49:25.935-04:00,2026-05-01T02:49:25.993-04:00
+6,10.215.173.1,33290,152.233.100.15,443,10476,Brave,com.brave.browser,HTTPS,Closed,www.xnxx.com,8718,140524,79,89,2026-05-01T02:49:26.002-04:00,2026-05-01T02:49:42.093-04:00
+17,10.215.173.1,64538,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,www.xnxx.gold,59,132,1,1,2026-05-01T02:49:26.770-04:00,2026-05-01T02:49:26.832-04:00
+17,10.215.173.1,54233,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,www.xnxx.gold,59,132,1,1,2026-05-01T02:49:26.776-04:00,2026-05-01T02:49:27.003-04:00
+17,10.215.173.1,19168,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,www.xnxx.gold,59,313,1,1,2026-05-01T02:49:26.781-04:00,2026-05-01T02:49:26.833-04:00
+6,10.215.173.1,53508,152.233.101.8,443,10476,Brave,com.brave.browser,HTTPS,Closed,www.xnxx.gold,5884,78236,40,50,2026-05-01T02:49:27.015-04:00,2026-05-01T02:49:42.094-04:00
+17,10.215.173.1,10900,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:49:27.246-04:00,2026-05-01T02:49:27.295-04:00
+6,10.215.173.1,56604,20.42.65.89,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1285,9062,9,11,2026-05-01T02:49:27.305-04:00,2026-05-01T02:49:27.549-04:00
+17,10.215.173.1,7875,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,201,1,1,2026-05-01T02:49:32.569-04:00,2026-05-01T02:49:32.616-04:00
+6,10.215.173.1,42194,20.44.10.122,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1285,9062,9,11,2026-05-01T02:49:32.626-04:00,2026-05-01T02:49:33.008-04:00
+17,10.215.173.1,49285,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,dc.services.visualstudio.com,74,519,1,1,2026-05-01T02:49:37.295-04:00,2026-05-01T02:49:37.354-04:00
+17,10.215.173.1,12551,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,dc.services.visualstudio.com,74,494,1,1,2026-05-01T02:49:37.300-04:00,2026-05-01T02:49:37.355-04:00
+6,10.215.173.1,48738,52.179.73.39,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,dc.services.visualstudio.com,1281,9018,9,12,2026-05-01T02:49:37.360-04:00,2026-05-01T02:49:37.584-04:00
+6,10.215.173.1,33578,20.44.10.122,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1285,9102,9,12,2026-05-01T02:49:38.210-04:00,2026-05-01T02:49:38.567-04:00
+6,10.215.173.1,33284,185.59.223.192,443,10476,Brave,com.brave.browser,HTTPS,Closed,s.orbsrv.com,4402,13655,17,21,2026-05-01T02:49:39.376-04:00,2026-05-01T02:49:42.020-04:00
+17,10.215.173.1,50153,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,s.orbsrv.com,58,151,1,1,2026-05-01T02:49:39.915-04:00,2026-05-01T02:49:39.954-04:00
+17,10.215.173.1,55629,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,s.orbsrv.com,58,151,1,1,2026-05-01T02:49:39.919-04:00,2026-05-01T02:49:39.958-04:00
+17,10.215.173.1,45450,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,s.orbsrv.com,58,105,1,1,2026-05-01T02:49:39.926-04:00,2026-05-01T02:49:39.973-04:00
+6,10.215.173.1,33294,185.59.223.192,443,10476,Brave,com.brave.browser,HTTPS,Closed,s.orbsrv.com,3519,4794,11,9,2026-05-01T02:49:39.980-04:00,2026-05-01T02:49:42.021-04:00
+17,10.215.173.1,41097,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,thumb-cdn77.xnxx-cdn.com,70,160,1,1,2026-05-01T02:49:40.080-04:00,2026-05-01T02:49:40.130-04:00
+17,10.215.173.1,63219,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,thumb-cdn77.xnxx-cdn.com,70,160,1,1,2026-05-01T02:49:40.085-04:00,2026-05-01T02:49:40.139-04:00
+17,10.215.173.1,14527,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,thumb-cdn77.xnxx-cdn.com,70,124,1,1,2026-05-01T02:49:40.090-04:00,2026-05-01T02:49:40.139-04:00
+17,10.215.173.1,39448,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,thumbs-gcore.xnxx-cdn.com,71,111,1,1,2026-05-01T02:49:40.102-04:00,2026-05-01T02:49:40.146-04:00
+17,10.215.173.1,45352,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,thumbs-gcore.xnxx-cdn.com,71,111,1,1,2026-05-01T02:49:40.106-04:00,2026-05-01T02:49:40.147-04:00
+17,10.215.173.1,16848,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,thumbs-gcore.xnxx-cdn.com,71,127,1,1,2026-05-01T02:49:40.110-04:00,2026-05-01T02:49:40.158-04:00
+6,10.215.173.1,34640,109.61.91.250,443,10476,Brave,com.brave.browser,HTTPS,Closed,thumb-cdn77.xnxx-cdn.com,20560,1989636,312,535,2026-05-01T02:49:40.144-04:00,2026-05-01T02:49:42.016-04:00
+6,10.215.173.1,37068,92.38.145.145,443,10476,Brave,com.brave.browser,HTTPS,Closed,thumbs-gcore.xnxx-cdn.com,4825,255262,42,60,2026-05-01T02:49:40.166-04:00,2026-05-01T02:49:42.017-04:00
+17,10.215.173.1,43379,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,creative.xlivrdr.com,66,214,1,1,2026-05-01T02:49:40.403-04:00,2026-05-01T02:49:40.452-04:00
+17,10.215.173.1,61566,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,creative.xlivrdr.com,66,122,1,1,2026-05-01T02:49:40.414-04:00,2026-05-01T02:49:40.459-04:00
+17,10.215.173.1,6474,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,creative.xlivrdr.com,66,98,1,1,2026-05-01T02:49:40.418-04:00,2026-05-01T02:49:40.456-04:00
+17,10.215.173.1,52141,172.67.213.77,443,10476,Brave,com.brave.browser,QUIC,Closed,creative.xlivrdr.com,12301,136342,69,122,2026-05-01T02:49:40.485-04:00,2026-05-01T02:49:41.904-04:00
+6,fd00:2:fd00:1:fd00:1:fd00:1,34988,2606:4700:3031::ac43:d54d,443,10476,Brave,com.brave.browser,HTTPS,Closed,cloudflare-ech.com,2292,4323,8,7,2026-05-01T02:49:40.494-04:00,2026-05-01T02:49:42.018-04:00
+17,10.215.173.1,28418,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,fonts.googleapis.com,66,123,1,1,2026-05-01T02:49:40.718-04:00,2026-05-01T02:49:40.830-04:00
+17,10.215.173.1,25986,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,fonts.googleapis.com,66,94,1,1,2026-05-01T02:49:40.722-04:00,2026-05-01T02:49:40.831-04:00
+17,10.215.173.1,16033,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,fonts.googleapis.com,66,82,1,1,2026-05-01T02:49:40.725-04:00,2026-05-01T02:49:40.850-04:00
+17,10.215.173.1,37939,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,static.cloudflareinsights.com,75,145,1,1,2026-05-01T02:49:40.729-04:00,2026-05-01T02:49:40.852-04:00
+17,10.215.173.1,50270,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,static.cloudflareinsights.com,75,131,1,1,2026-05-01T02:49:40.732-04:00,2026-05-01T02:49:40.852-04:00
+17,10.215.173.1,58913,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,static.cloudflareinsights.com,75,107,1,1,2026-05-01T02:49:40.736-04:00,2026-05-01T02:49:40.852-04:00
+6,fd00:2:fd00:1:fd00:1:fd00:1,56088,2607:f8b0:4004:c07::5f,443,10476,Brave,com.brave.browser,HTTPS,Closed,fonts.googleapis.com,3368,9497,14,16,2026-05-01T02:49:40.871-04:00,2026-05-01T02:49:42.018-04:00
+6,fd00:2:fd00:1:fd00:1:fd00:1,56420,2606:4700::6810:4f49,443,10476,Brave,com.brave.browser,HTTPS,Closed,static.cloudflareinsights.com,3206,16058,12,14,2026-05-01T02:49:40.882-04:00,2026-05-01T02:49:42.019-04:00
+17,10.215.173.1,11549,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,go.xlivrdr.com,60,157,1,1,2026-05-01T02:49:41.052-04:00,2026-05-01T02:49:41.255-04:00
+17,10.215.173.1,20938,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,go.xlivrdr.com,60,140,1,1,2026-05-01T02:49:41.056-04:00,2026-05-01T02:49:41.256-04:00
+17,10.215.173.1,55610,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,go.xlivrdr.com,60,116,1,1,2026-05-01T02:49:41.059-04:00,2026-05-01T02:49:41.256-04:00
+17,10.215.173.1,35682,172.64.147.206,443,10476,Brave,com.brave.browser,QUIC,Closed,go.xlivrdr.com,8053,10836,14,16,2026-05-01T02:49:41.268-04:00,2026-05-01T02:49:41.898-04:00
+6,fd00:2:fd00:1:fd00:1:fd00:1,45978,2a06:98c1:310d::6812:2832,443,10476,Brave,com.brave.browser,HTTPS,Closed,go.xlivrdr.com,2136,3765,6,5,2026-05-01T02:49:41.572-04:00,2026-05-01T02:49:42.002-04:00
+17,10.215.173.1,34660,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,stripchat.com,59,117,1,1,2026-05-01T02:49:41.857-04:00,2026-05-01T02:49:41.904-04:00
+17,10.215.173.1,15815,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,stripchat.com,59,115,1,1,2026-05-01T02:49:41.860-04:00,2026-05-01T02:49:41.908-04:00
+17,10.215.173.1,28813,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,stripchat.com,59,91,1,1,2026-05-01T02:49:41.864-04:00,2026-05-01T02:49:41.910-04:00
+17,10.215.173.1,14280,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,stripchat.com,59,117,1,1,2026-05-01T02:49:41.916-04:00,2026-05-01T02:49:41.965-04:00
+17,10.215.173.1,60404,10.215.173.2,53,-1,Unknown,unknown,DNS,Closed,stripchat.com,59,115,1,1,2026-05-01T02:49:41.928-04:00,2026-05-01T02:49:41.966-04:00
+17,10.215.173.1,64413,10.215.173.2,53,-1,Unknown,unknown,DNS,Closed,stripchat.com,59,91,1,1,2026-05-01T02:49:41.944-04:00,2026-05-01T02:49:42.002-04:00
+17,10.215.173.1,4918,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:49:46.237-04:00,2026-05-01T02:49:46.296-04:00
+6,10.215.173.1,54280,20.42.65.89,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Error,mobile.events.data.microsoft.com,1285,9062,9,11,2026-05-01T02:49:46.302-04:00,2026-05-01T02:49:46.544-04:00
+17,10.215.173.1,4510,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,www.xnxx.com,58,131,1,1,2026-05-01T02:49:53.510-04:00,2026-05-01T02:49:53.554-04:00
+17,10.215.173.1,4786,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,www.xnxx.com,58,131,1,1,2026-05-01T02:49:53.513-04:00,2026-05-01T02:49:53.554-04:00
+17,10.215.173.1,60842,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,www.xnxx.com,58,312,1,1,2026-05-01T02:49:53.517-04:00,2026-05-01T02:49:53.563-04:00
+6,10.215.173.1,55858,152.233.100.4,443,10476,Brave,com.brave.browser,HTTPS,Closed,www.xnxx.com,3694,12413,15,16,2026-05-01T02:49:53.567-04:00,2026-05-01T02:49:55.913-04:00
+17,10.215.173.1,5228,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,242,1,1,2026-05-01T02:49:53.858-04:00,2026-05-01T02:49:53.904-04:00
+6,10.215.173.1,54288,20.42.65.89,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1325,9142,10,13,2026-05-01T02:49:53.911-04:00,2026-05-01T02:49:54.145-04:00
+17,10.215.173.1,56824,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,variations.brave.com,66,131,1,1,2026-05-01T02:49:55.521-04:00,2026-05-01T02:49:55.566-04:00
+17,10.215.173.1,51067,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,variations.brave.com,66,333,1,1,2026-05-01T02:49:55.524-04:00,2026-05-01T02:49:55.565-04:00
+17,10.215.173.1,2301,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,variations.brave.com,66,173,1,1,2026-05-01T02:49:55.528-04:00,2026-05-01T02:49:55.574-04:00
+6,fd00:2:fd00:1:fd00:1:fd00:1,47834,2600:9000:28a6:1400:15:85fe:56c0:93a1,443,10476,Brave,com.brave.browser,HTTPS,Closed,variations.brave.com,3211,7633,15,16,2026-05-01T02:49:55.588-04:00,2026-05-01T02:49:55.813-04:00
+17,10.215.173.1,11298,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,201,1,1,2026-05-01T02:49:59.516-04:00,2026-05-01T02:49:59.576-04:00
+6,10.215.173.1,42724,40.74.98.193,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1285,6812,9,11,2026-05-01T02:49:59.586-04:00,2026-05-01T02:50:00.444-04:00
+6,10.215.173.1,39602,152.233.100.4,443,10476,Brave,com.brave.browser,HTTPS,Active,www.xnxx.com,7344,152171,58,85,2026-05-01T02:50:06.201-04:00,2026-05-01T02:50:25.191-04:00
+17,10.215.173.1,45676,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:50:06.254-04:00,2026-05-01T02:50:06.304-04:00
+6,10.215.173.1,43190,20.189.173.1,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,6771,8,10,2026-05-01T02:50:06.312-04:00,2026-05-01T02:50:06.810-04:00
+17,10.215.173.1,50959,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,s.orbsrv.com,58,151,1,1,2026-05-01T02:50:06.403-04:00,2026-05-01T02:50:06.454-04:00
+17,10.215.173.1,5741,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,s.orbsrv.com,58,151,1,1,2026-05-01T02:50:06.409-04:00,2026-05-01T02:50:06.455-04:00
+17,10.215.173.1,42984,10.215.173.2,53,10476,Brave,com.brave.browser,DNS,Closed,s.orbsrv.com,58,105,1,1,2026-05-01T02:50:06.413-04:00,2026-05-01T02:50:06.463-04:00
+6,10.215.173.1,53536,185.59.223.192,443,10476,Brave,com.brave.browser,HTTPS,Closed,s.orbsrv.com,4805,4808,15,18,2026-05-01T02:50:06.471-04:00,2026-05-01T02:50:16.875-04:00
+17,10.215.173.1,36221,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:50:13.568-04:00,2026-05-01T02:50:13.671-04:00
+6,10.215.173.1,53230,20.189.173.10,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1285,6811,9,11,2026-05-01T02:50:13.679-04:00,2026-05-01T02:50:14.182-04:00
+17,10.215.173.1,23333,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:50:20.753-04:00,2026-05-01T02:50:20.814-04:00
+6,10.215.173.1,44888,52.168.112.66,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,9022,8,10,2026-05-01T02:50:20.821-04:00,2026-05-01T02:50:21.036-04:00
+6,10.215.173.1,41062,52.168.112.66,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,8982,8,9,2026-05-01T02:50:27.888-04:00,2026-05-01T02:50:28.126-04:00
+17,10.215.173.1,33794,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,210,1,1,2026-05-01T02:50:33.762-04:00,2026-05-01T02:50:33.825-04:00
+6,10.215.173.1,53720,51.116.253.169,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1325,9143,10,13,2026-05-01T02:50:33.835-04:00,2026-05-01T02:50:34.446-04:00
+17,10.215.173.1,30045,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,246,1,1,2026-05-01T02:50:42.332-04:00,2026-05-01T02:50:42.374-04:00
+17,10.215.173.1,2478,10.215.173.2,53,10490,Microsoft Defender,com.microsoft.scmx,DNS,Closed,mobile.events.data.microsoft.com,78,198,1,1,2026-05-01T02:50:42.339-04:00,2026-05-01T02:50:42.384-04:00
+6,10.215.173.1,59232,20.189.173.4,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1245,6771,8,10,2026-05-01T02:50:42.392-04:00,2026-05-01T02:50:42.890-04:00
+6,10.215.173.1,53798,20.189.173.4,443,10490,Microsoft Defender,com.microsoft.scmx,HTTPS,Closed,mobile.events.data.microsoft.com,1285,6851,9,12,2026-05-01T02:50:49.987-04:00,2026-05-01T02:50:50.493-04:00
